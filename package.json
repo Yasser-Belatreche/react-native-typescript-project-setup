@@ -2,7 +2,7 @@
   "name": "react-native-typescript-project-setup",
   "version": "0.0.1",
   "private": false,
-  "description": "A ready-to-use structured ReactJS project initialized with \"Typescript, storybook, react-native-navigation, and jest\", to skip the tedious task of installing every dependency needed and dive directly into the fun part, coding ",
+  "description": "A ready-to-use structured React native project initialized with \"Typescript, storybook, react-native-navigation, and jest\", to skip the tedious task of installing every dependency needed and dive directly into the fun part, coding ",
   "author": "Yasser Belatreche",
   "license": "MIT",
   "main": "index.js",
