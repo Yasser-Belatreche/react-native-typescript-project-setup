@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomeStack -> Home Screen should renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#3b4ba5",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#fff",
+        "fontSize": 30,
+        "fontWeight": "700",
+        "marginBottom": 10,
+      }
+    }
+  >
+    Happy Coding ✌️✌️
+  </Text>
+  <Text
+    style={
+      Object {
+        "color": "#fff",
+        "fontSize": 18,
+        "fontWeight": "700",
+      }
+    }
+  >
+    <Text>
+      Made By 
+    </Text>
+    <Text
+      onPress={[Function]}
+      style={
+        Object {
+          "textDecorationLine": "underline",
+        }
+      }
+    >
+      Yasser
+    </Text>
+  </Text>
+</View>
+`;
